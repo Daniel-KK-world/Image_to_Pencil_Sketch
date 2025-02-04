@@ -1,3 +1,5 @@
+This project converts images into pencil sketch-style drawings using OpenCV. It applies grayscale conversion, inversion, Gaussian & median blur techniques, and adaptive scaling to produce a clean and smooth sketch effect.
+
 # Pencil Sketch Image Converter
 
 ## Overview
@@ -7,6 +9,8 @@
 ![pencil_sketch1](https://github.com/user-attachments/assets/d08e99ea-ed85-41e1-88bc-72bc4915c5d4)
 
 This project converts images into pencil sketch-style drawings using OpenCV. It applies grayscale conversion, inversion, Gaussian & median blur techniques, and adaptive scaling to produce a clean and smooth sketch effect.
+
+
 
 ## Features
 
